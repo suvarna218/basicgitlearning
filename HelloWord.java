@@ -10,6 +10,9 @@ class HelloWord{
           Sem.out.println("done with final word");  
 
 
+       System.out.println("Hello AWS");  
+       System.out.println("done with hello word");  
+
 
 
 
