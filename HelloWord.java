@@ -3,6 +3,8 @@ class HelloWord{
      System.out.println("Hello Java");  
       System.out.println("Hello spring"); 
       System.out.println("Hello Rest");  
+              System.out.println("Hello AWS");  
+
 
 
     }  
